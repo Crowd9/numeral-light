@@ -7,6 +7,9 @@
   "author": "nskazki <nskazki@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
     "eslint": "^6.1.0"
   }
 }
