@@ -7,7 +7,8 @@
   "author": "nskazki <nskazki@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "yarn build:locales",
+    "build": "yarn build:locales && yarn build:lib",
+    "build:lib": "rm -rf dist && babel -d dist lib",
     "build:locales": "rm -rf locales && scripts/generate-locales.js"
   },
   "devDependencies": {
