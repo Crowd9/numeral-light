@@ -12,11 +12,11 @@
     "build:locales": "rm -rf locales && scripts/generate-locales.js"
   },
   "devDependencies": {
-    "@babel/cli": "^7.12.10",
-    "@babel/core": "^7.12.10",
-    "@babel/preset-env": "^7.12.10",
-    "eslint": "^7.15.0",
-    "lodash": "^4.17.20",
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10",
+    "eslint": "^7.22.0",
+    "lodash": "^4.17.21",
     "numbro": "^2.3.2",
     "numeral": "^2.0.6"
   }
