@@ -1,6 +1,6 @@
 {
   "name": "numeral-light",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A few features extracted from numeral.js and numbro packages",
   "main": "index.js",
   "repository": "git@github.com:Crowd9/numeral-light",
