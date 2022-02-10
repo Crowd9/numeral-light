@@ -1,6 +1,6 @@
 {
   "name": "numeral-light",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "A few features extracted from numeral.js and numbro packages",
   "main": "index.js",
   "repository": "git@github.com:Crowd9/numeral-light",
@@ -12,12 +12,12 @@
     "build:locales": "rm -rf locales && scripts/generate-locales.js"
   },
   "devDependencies": {
-    "@babel/cli": "^7.15.7",
-    "@babel/core": "^7.15.5",
-    "@babel/preset-env": "^7.15.6",
-    "eslint": "^7.32.0",
+    "@babel/cli": "^7.17.0",
+    "@babel/core": "^7.17.0",
+    "@babel/preset-env": "^7.16.11",
+    "eslint": "^8.8.0",
     "lodash": "^4.17.21",
-    "numbro": "^2.3.5",
+    "numbro": "^2.3.6",
     "numeral": "^2.0.6"
   }
 }
