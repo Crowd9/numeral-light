@@ -17,7 +17,7 @@
     "@babel/preset-env": "^7.23.2",
     "eslint": "^8.51.0",
     "lodash": "^4.17.21",
-    "numbro": "^2.3.6",
+    "numbro": "^2.4.0",
     "numeral": "^2.0.6"
   },
   "resolutions": {
